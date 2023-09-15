@@ -121,7 +121,7 @@ class _MyHomePageState extends State<MyHomePage> {
             return Row(
               children: [
                 Container(
-                  width: 150,
+                  width: 240,
                   child: NavigationRail(
                     extended: constraints.maxWidth >= 600,
                     destinations: [
